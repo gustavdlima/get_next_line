@@ -1,5 +1,5 @@
 <p align ="center">
-	<img src="images/../../images/fase1/gnl.png">
+	<img src="images/fase1/gnl.png">
 </p>
 
 <p>
@@ -14,7 +14,7 @@
 	<h2> Pontuação </h2>
 </p>
 <p>
-	<img src="images/../../images/100.jpg">
+	<img src="images/100.jpg">
 </p>
 
 <p>
